@@ -1,4 +1,4 @@
-![Shipmight logo](../logotype-light.svg)
+![Shipmight logo](https://raw.githubusercontent.com/shipmight/.github/master/logotype-light.svg)
 
 ---
 
