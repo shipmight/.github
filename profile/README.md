@@ -7,7 +7,7 @@
 **Shipmight repositories:**
 
 - [**shipmight/helm-charts →**](https://github.com/shipmight/helm-charts)  
-  Official Shipmight Helm charts ️️⚙️
+  ⚙️ Official Shipmight Helm charts ️
 
 - **shipmight/shipmight** (TBA)  
   Shipmight core is not open source, at least not yet!
