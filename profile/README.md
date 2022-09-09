@@ -2,24 +2,14 @@
 
 [Home](https://shipmight.com)     [Docs](https://shipmight.com/docs)     [GitHub](https://github.com/shipmight)     [Twitter](https://twitter.com/shipmight)
 
----
+## Repositories
 
-**Shipmight repositories:**
+Shipmight repositories:
 
-- [**📦 shipmight/helm-charts →**](https://github.com/shipmight/helm-charts)  
-  Official Shipmight Helm charts ️
+- [shipmight](https://github.com/shipmight/shipmight) - PaaS in your cloud
+- [helm-charts](https://github.com/shipmight/helm-charts) - Official Shipmight Helm charts ️
 
-- **shipmight/shipmight** (TBA)  
-  Shipmight core is not open source, at least not yet!
+Other open source projects:
 
----
-
-We've also open sourced some general-purpose repositories:
-
-- [shipmight/helm-playground →](https://github.com/shipmight/helm-playground)  
-  Interactive site to debug Helm templating (& syntax cheatsheet)
-
-- [shipmight/nginx-www-redirect →](https://github.com/shipmight/nginx-www-redirect)  
-  Simple www to non-www redirection (Docker image)
-
-Thanks for visiting, and have a great day!
+- [helm-playground](https://github.com/shipmight/helm-playground) - Interactive site to debug Helm templating (& syntax cheatsheet)
+- [nginx-www-redirect](https://github.com/shipmight/nginx-www-redirect) - Simple www to non-www redirection (Docker image)
